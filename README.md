@@ -1,16 +1,29 @@
-### Hi there 👋
+## EN =>
 
-<!--
-**LucasVChaves/LucasVChaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, welcome to my profile! :heart: :wave:
 
-Here are some ideas to get you started:
+-> I'm a 16 years old brazilian programming student  
+-> My main technologies are javascript with Node.JS and Electron.JS, pure Python and little bit of C# (Unity).  
+-> I have skills in the pentesting/hacking area, and I want to follow the Security path in the future.  
+-> My main goal is to go to the college and study computer science to become a professional pentester and bug hunter.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### -> If you want to talk a bit: 
+    - Email: lucasvchaves@gmail.com
+    - Discord: f(x)et#3766
+    - Reddit: u/IOException_notfound
+    
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## PT =>
+
+# Oii, bem-vindo ao meu perfil! :heart: :wave
+
+-> Tenho 16 anos, brasileiro, e estudo programação  
+-> Minhas principais tecnologias são javascript com Node.JS e Electron.JS. Python puro e um pouco de C# (Unity).  
+-> Tenho habilidades na area de pentesting/hacking, e quero seguir o caminho da segurança da informação no futuro.  
+-> Meu principal objetivo é entrar na universidade e estudar ciência de computação, e me tornar um pentester e bug hunter.  
+
+### -> Se quiser ter uma prosa:
+    - Email: lucasvchaves@gmail.com
+    - Discord: f(x)et#3766
+    - Reddit: u/IOException_notfound
