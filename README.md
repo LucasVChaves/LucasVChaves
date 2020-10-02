@@ -16,7 +16,7 @@
 
 ## PT =>
 
-# Oii, bem-vindo ao meu perfil! :heart: :wave
+# Oii, bem-vindo ao meu perfil! :heart: :wave:
 
 -> Tenho 16 anos, brasileiro, e estudo programação  
 -> Minhas principais tecnologias são javascript com Node.JS e Electron.JS. Python puro e um pouco de C# (Unity).  
