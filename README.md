@@ -25,7 +25,7 @@ in the future.
 -> Minhas principais tecnologias são javascript com Node.JS e Electron.JS. Python puro e um pouco de C# (Unity).  
 -> Atualmente estudando linguagens baixo nivel (C++ e rust).  
 -> Tenho habilidades na area de pentesting/hacking, e quero seguir o caminho da segurança da informação no futuro.  
--> Em hacking tenho grande familiaridade com NMAP, Fern (wifite) e hashcat. Atualmente estudo Burp Suite e Wireshark. Pretendo aprofundar em engenharia reversa e análise de malware.
+-> Em hacking tenho grande familiaridade com NMAP, Fern (wifite) e hashcat. Atualmente estudo Burp Suite e Wireshark. Pretendo aprofundar em engenharia reversa e análise de malware.  
 -> Meu principal objetivo é entrar na universidade e estudar ciência de computação, e me tornar um pentester e pesquisador na área de segurança.  
 
 ### -> Se quiser ter uma prosa:
