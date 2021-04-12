@@ -9,7 +9,7 @@
 -> My main goal is to go to the college and study computer science to become a professional pentester and bug hunter.  
 
 ### -> If you want to talk a bit: 
-    - Email: lucasvchaves@gmail.com
+    - Email: y3tsec@protonmail.com
     - Discord: f(x)et#3766
     - Reddit: u/IOException_notfound
     
@@ -26,6 +26,6 @@
 -> Meu principal objetivo é entrar na universidade e estudar ciência de computação, e me tornar um pentester e bug hunter.  
 
 ### -> Se quiser ter uma prosa:
-    - Email: lucasvchaves@gmail.com
+    - Email: y3tsec@protonmail.com
     - Discord: f(x)et#3766
     - Reddit: u/IOException_notfound
