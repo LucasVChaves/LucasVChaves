@@ -32,3 +32,6 @@ in the future.
     - Email: y3tsec@protonmail.com
     - Discord: f(x)et#3766
     - Reddit: u/IOException_notfound
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVChaves)](https://github.com/anuraghazra/github-readme-stats)
