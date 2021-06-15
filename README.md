@@ -33,5 +33,5 @@ in the future.
     - Discord: f(x)et#3766
     - Reddit: u/IOException_notfound
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVChaves&show_icons=true&theme=material-palenight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVChaves&show_icons=true&theme=dracula)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves$layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
