@@ -12,7 +12,7 @@ in the future.
 
 ### -> If you want to talk a bit: 
     - Email: y3tsec@protonmail.com
-    - Discord: f(x)et#3766
+    - Discord: f(x)et#0666
     - Reddit: u/IOException_notfound
     
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -30,7 +30,7 @@ in the future.
 
 ### -> Se quiser ter uma prosa:
     - Email: y3tsec@protonmail.com
-    - Discord: f(x)et#3766
+    - Discord: f(x)et#0666
     - Reddit: u/IOException_notfound
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVChaves&show_icons=true&theme=dracula)  
