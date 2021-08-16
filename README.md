@@ -19,8 +19,9 @@
 -> Proficient in Javascript, Python 3 and C++.  
 -> Intermediate in Python 2, Rust, C and C# (+ Unity).  
 -> In complete love with Rust 🦀.  
--> Coding tools: Used to Linux and Windows systems, Git (Github / Gitkraken), VSCode, Docker, Node, Cargo.  
--> Hacking tools: Bash, Nmap, Maltego, Burpsuite, Hashcat, Metasploit Framework, Tor, Proxychains and Fern (wifite) currently learning Wireshark. 🦈  
+-> Coding tools: Experienced in Linux and Windows systems, Powershell / Bash / CMD shells, Git (Github / Gitkraken), VSCode, Docker, Node, Language specific packet managers (Cargo, NPM, Yarn, PIP).  
+-> Hacking tools: Bash, Nmap, Maltego, Burpsuite, Hashcat, Metasploit Framework, Tor, Proxychains, Fern (wifite) and Wireshark. 🦈  
+-> Currently learning reverse engineering with Ghidra, ILSpy and Radare2. ⚙️  
 -> Electronics and computer architecture knowledge. Experience with Arduino, Espressif, Raspberries and PC Building.  
 -> Basic Photoshop (for memes mostly) and 3D modelling for printing with Blender experience.  
 
