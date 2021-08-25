@@ -4,7 +4,7 @@
 
 ## About me
 
--> I'm a 17 year old brazilian CS student. 🎉  
+-> I'm a 17 year old brazilian CS student. I study programming since 12, pentesting since 15. 🎉  
 -> Interested in the infosec area. 💻  
 -> With considerable knowledge in programming and hardware. ⌨️  
 -> Want to focus on reverse engineering and malware analysis. 👾  
