@@ -38,4 +38,4 @@
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVChaves&show_icons=true&theme=dracula)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&theme=dracula&hide=html,css,makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&langs_count=7&theme=dracula&hide=html,css,makefile)](https://github.com/anuraghazra/github-readme-stats)
