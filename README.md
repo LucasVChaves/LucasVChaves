@@ -4,33 +4,48 @@
 
 ## About me
 
--> I'm a 17 year old brazilian CS student. 🎉  
--> Interested in the infosec area. 💻  
--> With considerable knowledge in programming and hardware. ⌨️  
--> Want to focus on reverse engineering and malware analysis. 👾  
--> Out of the computer area I love punk, metal, japanese cuisine and horror movies. 🎸  
--> Native portuguese, advanced english, intermediate spanish and basic french. 🌎  
--> Love to learn new technologies and cultures. 📚  
+I'm a CS student based in Brazil.  
+Studying low-level coding and pen-testing.  
+Passionate about punk, metal, horror and learning.  
+For more info check my [personal page.](https://homepage-lucaschaves.vercel.app)
 
 <br/>
 
 ## Languages and Technologies  
 
--> Proficient in Javascript, Python 3 and C++.  
--> Intermediate in Python 2, Rust, C and C# (+ Unity).  
--> In complete love with Rust 🦀.  
--> Coding tools: Used to Linux and Windows systems, Git (Github / Gitkraken), VSCode, Docker, Node, Cargo.  
--> Hacking tools: Bash, Nmap, Maltego, Burpsuite, Hashcat, Metasploit Framework, Tor, Proxychains and Fern (wifite) currently learning Wireshark. 🦈  
--> Electronics and computer architecture knowledge. Experience with Arduino, Espressif, Raspberries and PC Building.  
--> Basic Photoshop (for memes mostly) and 3D modelling for printing with Blender experience.  
-
-<br/>
+Coding:  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="c" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="c++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="arduino" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" alt="raspeberry-pi" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
+<br/>  
+Pen-Testing:  
+<img src="https://securityonline.info/wp-content/uploads/2017/02/Capture-23.png" alt="nmap" height="40" style="vertical-align:top; margin:4px">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.recordedfuture.com%2Fassets%2Fmaltego-logo.png&f=1&nofb=1" alt="maltego" height="40" style="vertical-align:top; margin:4px">
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fgoescat%2Fmacaron%2F1024%2Fburp-suite-icon.png&f=1&nofb=1" alt="burpsuite" height="40" style="vertical-align:top; margin:4px">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.saashub.com%2Fimages%2Fapp%2Fservice_logos%2F35%2Fc4c0616340cf%2Flarge.png%3F1552308057&f=1&nofb=1" alt="hashcat" height="40" style="vertical-align:top; margin:4px">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.330657452.3245%2Fraf%2C750x1000%2C075%2Ct%2C101010%3A01c5ca27c6.u1.jpg&f=1&nofb=1" alt="metasploit" height="40" style="vertical-align:top; margin:4px">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FRadare2%2FRadare2-Logo.wine.png&f=1&nofb=1" alt="radare2" height="40" style="vertical-align:top; margin:4px">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fghidra-sre.org%2Fimages%2FGHIDRA_1.png&f=1&nofb=1" alt="ghidra" height="40" style="vertical-align:top; margin:4px">
+<br/>  
+Other:  
+<img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" alt="vscode" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim" height="40" style="vertical-align:top; margin:4px">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2020%2F06%2FAdobe_Photoshop_Logo_old.png&f=1&nofb=1" alt="photoshop" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.tgcindia.com%2Fwp-content%2Fuploads%2F2018%2F02%2FGIMP-logo-Graphic-Desiging-training.jpg&f=1&nofb=1" alt="GIMP" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fjaviscomputers.com%2Fwp-content%2Fuploads%2F2019%2F04%2FBlender_logo_no_text.svg_.png%3Fssl%3D1&f=1&nofb=1" alt="blender" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.dmuth.org%2Fwp-content%2Fuploads%2F2021%2F03%2Fobsidian-logo.png&f=1&nofb=1" alt="obsidian" height="40" style="vertical-align:top; margin:4px"> 
 
 ## Chat with me 🙃
 
 -> Email: y3tsec@protonmail.com.  
--> Discord: f(x)et#0666.  
+-> Discord: f(x)et#6654.  
 -> Reddit: u/IOException_notfound.  
+-> HackTheBox: Y3T #456566.  
+-> Hackerone: @Y3T //No bounties yet  
 
 <br/>
 
