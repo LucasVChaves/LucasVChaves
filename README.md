@@ -25,7 +25,7 @@ Coding:
 Pen-Testing:  
 <img src="https://securityonline.info/wp-content/uploads/2017/02/Capture-23.png" alt="nmap" height="40" style="vertical-align:top; margin:4px">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.recordedfuture.com%2Fassets%2Fmaltego-logo.png&f=1&nofb=1" alt="maltego" height="40" style="vertical-align:top; margin:4px">
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fgoescat%2Fmacaron%2F1024%2Fburp-suite-icon.png&f=1&nofb=1" alt="burpsuite" height="40" style="vertical-align:top; margin:4px">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpsychocod3r.files.wordpress.com%2F2021%2F04%2Fburpsuite-logo-1.png&f=1&nofb=1" alt="burpsuite" height="40" style="vertical-align:top; margin:4px">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.saashub.com%2Fimages%2Fapp%2Fservice_logos%2F35%2Fc4c0616340cf%2Flarge.png%3F1552308057&f=1&nofb=1" alt="hashcat" height="40" style="vertical-align:top; margin:4px">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.330657452.3245%2Fraf%2C750x1000%2C075%2Ct%2C101010%3A01c5ca27c6.u1.jpg&f=1&nofb=1" alt="metasploit" height="40" style="vertical-align:top; margin:4px">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FRadare2%2FRadare2-Logo.wine.png&f=1&nofb=1" alt="radare2" height="40" style="vertical-align:top; margin:4px">
