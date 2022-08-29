@@ -25,7 +25,7 @@ Coding:
 <br/>  
 Pen-Testing:  
 <img src="https://securityonline.info/wp-content/uploads/2017/02/Capture-23.png" alt="nmap" title="Nmap" height="40" style="vertical-align:top; margin:4px">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.recordedfuture.com%2Fassets%2Fmaltego-logo.png&f=1&nofb=1" alt="maltego" title="Maltego" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.maltego.com/img/maltego-logo/Maltego-Logo-Compact-Greyblue.png" alt="maltego" title="Maltego" height="40" style="vertical-align:top; margin:4px">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpsychocod3r.files.wordpress.com%2F2021%2F04%2Fburpsuite-logo-1.png&f=1&nofb=1" alt="burp suite" title="Burp Suite" height="40" style="vertical-align:top; margin:4px">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.saashub.com%2Fimages%2Fapp%2Fservice_logos%2F35%2Fc4c0616340cf%2Flarge.png%3F1552308057&f=1&nofb=1" alt="hashcat" title="Hashcat" height="40" style="vertical-align:top; margin:4px">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.330657452.3245%2Fraf%2C750x1000%2C075%2Ct%2C101010%3A01c5ca27c6.u1.jpg&f=1&nofb=1" alt="metasploit" title="Metasploit Framework" height="40" style="vertical-align:top; margin:4px">
