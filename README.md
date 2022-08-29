@@ -43,8 +43,7 @@ Other:
 ## Chat with me 🙃
 
 -> Email: y3tsec@protonmail.com.  
--> Discord: f(x)et#6654.  
--> Reddit: u/IOException_notfound.  
+-> Discord: f(x)et#6654.   
 -> HackTheBox: Y3T #456566.  
 -> Hackerone: @Y3T //No bounties yet  
 
