@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm a CS student based in Brazil.  
+I'm a Electrical Engineering student based in Brazil.  
 Studying low-level coding and pen-testing.  
 Passionate about punk, metal, horror and learning.  
 For more info check my [personal page.](https://homepage-lucaschaves.vercel.app)
@@ -20,7 +20,6 @@ Coding:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" title="NodeJS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="Python 3" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="arduino" title="Arduino" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" alt="raspeberry-pi" title="Raspberry Pi" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" title="Bash" height="40" style="vertical-align:top; margin:4px">
 <br/>  
 Pen-Testing:  
@@ -37,8 +36,17 @@ Other:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim" title="VIM" height="40" style="vertical-align:top; margin:4px">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2020%2F06%2FAdobe_Photoshop_Logo_old.png&f=1&nofb=1" alt="photoshop" title="Photoshop 2020" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.tgcindia.com%2Fwp-content%2Fuploads%2F2018%2F02%2FGIMP-logo-Graphic-Desiging-training.jpg&f=1&nofb=1" alt="GIMP" title="GIMP" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" alt="raspeberry-pi" title="Raspberry Pi" height="40" style="vertical-align:top; margin:4px">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fjaviscomputers.com%2Fwp-content%2Fuploads%2F2019%2F04%2FBlender_logo_no_text.svg_.png%3Fssl%3D1&f=1&nofb=1" alt="blender" title="Blender" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.dmuth.org%2Fwp-content%2Fuploads%2F2021%2F03%2Fobsidian-logo.png&f=1&nofb=1" alt="obsidian" title="Obsidian" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.dmuth.org%2Fwp-content%2Fuploads%2F2021%2F03%2Fobsidian-logo.png&f=1&nofb=1" alt="obsidian" title="Obsidian" height="40" style="vertical-align:top; margin:4px">  
+<br/>
+Wish to or currently learning:  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FRuby_logo.png&f=1&nofb=1&ipt=ebd3783b95359c83d5cfcf9105ad2ca5acdf7b8de721183463ab3f098890216f&ipo=images" alt="ruby" title="Ruby" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F48pedia.org%2Fimages%2Fthumb%2F8%2F8e%2FLua-logo.svg%2F1200px-Lua-logo.svg.png&f=1&nofb=1&ipt=006fd60366554c074a7dcdeebbca9e8b28810ec1704ac0799c32b81710e489d7&ipo=images" alt="lua" title="Lua" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flatex-logo-png-transparent.png&f=1&nofb=1&ipt=7b99c8176ec3755526393fa66162c6707ffe4ca7c4bdd51f5d27968a92c9f8a0&ipo=images" alt="latex" title="LaTeX" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farchive.org%2Fdownload%2Fgithub.com-aseprite-aseprite_-_2018-04-20_14-34-47%2Fcover.jpg&f=1&nofb=1&ipt=7de44bcec1bf506c1c12976f23c8b17049241e413a56fda45f58cc3075d5edf6&ipo=images" alt="aseprite" title="Aseprite" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftraining-nyc.com%2Fimages%2Fimg_illustrator.jpg&f=1&nofb=1&ipt=1bede1484189f53bd40480c571167675de23affa1521354d6418ed7f47aa9f00&ipo=images" alt="illustrator" title="Illustrator" height="40" style="vertical-align:top; margin:4px"> 
+
 
 ## Chat with me 🙃
 
