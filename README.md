@@ -23,7 +23,7 @@ Coding:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" title="Bash" height="40" style="vertical-align:top; margin:4px">
 <br/>  
 Pen-Testing:  
-<img src="https://securityonline.info/wp-content/uploads/2017/02/Capture-23.png" alt="nmap" title="Nmap" height="40" style="vertical-align:top; margin:4px">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2.wp.com%2Ftsholden.com%2Ffiles%2Fart%2Fnmap_android.png&f=1&nofb=1&ipt=4f54d1cf97e2e9f190009be0f69314bf8db7a5e136d22c4daeabfd50fe01b0ea&ipo=images" alt="nmap" title="Nmap" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.maltego.com/img/maltego-logo/Maltego-Logo-Compact-Greyblue.png" alt="maltego" title="Maltego" height="40" style="vertical-align:top; margin:4px">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpsychocod3r.files.wordpress.com%2F2021%2F04%2Fburpsuite-logo-1.png&f=1&nofb=1" alt="burp suite" title="Burp Suite" height="40" style="vertical-align:top; margin:4px">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.saashub.com%2Fimages%2Fapp%2Fservice_logos%2F35%2Fc4c0616340cf%2Flarge.png%3F1552308057&f=1&nofb=1" alt="hashcat" title="Hashcat" height="40" style="vertical-align:top; margin:4px">
@@ -37,7 +37,7 @@ Other:
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2020%2F06%2FAdobe_Photoshop_Logo_old.png&f=1&nofb=1" alt="photoshop" title="Photoshop 2020" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.tgcindia.com%2Fwp-content%2Fuploads%2F2018%2F02%2FGIMP-logo-Graphic-Desiging-training.jpg&f=1&nofb=1" alt="GIMP" title="GIMP" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" alt="raspeberry-pi" title="Raspberry Pi" height="40" style="vertical-align:top; margin:4px">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fjaviscomputers.com%2Fwp-content%2Fuploads%2F2019%2F04%2FBlender_logo_no_text.svg_.png%3Fssl%3D1&f=1&nofb=1" alt="blender" title="Blender" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.logolynx.com%2Fimages%2Flogolynx%2F63%2F632150f28960cba513ff90fb97813286.png&f=1&nofb=1&ipt=60e085272ef790007636e24e7245328ed70c79e6c3f0b9b2751c75a6650a2dbc&ipo=images" alt="blender" title="Blender" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.dmuth.org%2Fwp-content%2Fuploads%2F2021%2F03%2Fobsidian-logo.png&f=1&nofb=1" alt="obsidian" title="Obsidian" height="40" style="vertical-align:top; margin:4px">  
 <br/>
 Wish to or currently learning:  
@@ -57,5 +57,5 @@ Wish to or currently learning:
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVChaves&show_icons=true&theme=dracula)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&theme=dracula&hide=html,css&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVChaves&show_icons=true&theme=tokyonight)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&theme=tokyonight&hide=html,css,javascript&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
