@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm a Electrical Engineering student based in Brazil.  
+I'm a Software Engineering student based in Brazil.  
 Studying low-level coding and pen-testing.  
 Passionate about punk, metal, horror and learning.  
 For more info check my [personal page.](https://homepage-lucaschaves.vercel.app)
