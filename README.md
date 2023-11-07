@@ -58,4 +58,4 @@ Wish to or currently learning:
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVChaves&hide_rank=true&show_icons=true&theme=tokyonight)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&theme=tokyonight&hide=html,css,javascript&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&theme=tokyonight&hide=html,css,javascript,shell&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
