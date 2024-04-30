@@ -41,21 +41,17 @@ Other:
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.dmuth.org%2Fwp-content%2Fuploads%2F2021%2F03%2Fobsidian-logo.png&f=1&nofb=1" alt="obsidian" title="Obsidian" height="40" style="vertical-align:top; margin:4px">  
 <br/>
 Wish to or currently learning:  
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FRuby_logo.png&f=1&nofb=1&ipt=ebd3783b95359c83d5cfcf9105ad2ca5acdf7b8de721183463ab3f098890216f&ipo=images" alt="ruby" title="Ruby" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F48pedia.org%2Fimages%2Fthumb%2F8%2F8e%2FLua-logo.svg%2F1200px-Lua-logo.svg.png&f=1&nofb=1&ipt=006fd60366554c074a7dcdeebbca9e8b28810ec1704ac0799c32b81710e489d7&ipo=images" alt="lua" title="Lua" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flatex-logo-png-transparent.png&f=1&nofb=1&ipt=7b99c8176ec3755526393fa66162c6707ffe4ca7c4bdd51f5d27968a92c9f8a0&ipo=images" alt="latex" title="LaTeX" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farchive.org%2Fdownload%2Fgithub.com-aseprite-aseprite_-_2018-04-20_14-34-47%2Fcover.jpg&f=1&nofb=1&ipt=7de44bcec1bf506c1c12976f23c8b17049241e413a56fda45f58cc3075d5edf6&ipo=images" alt="aseprite" title="Aseprite" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftraining-nyc.com%2Fimages%2Fimg_illustrator.jpg&f=1&nofb=1&ipt=1bede1484189f53bd40480c571167675de23affa1521354d6418ed7f47aa9f00&ipo=images" alt="illustrator" title="Illustrator" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://www.liblogo.com/img-logo/ma7737me7e-matlab-logo-matlab-logos.png" alt="matlab" title="Matlab" height="40" style="vertical-align:top; margin:4px">
 
 
 ## Chat with me 🙃
 
 -> Email: y3tsec@protonmail.com.  
--> Discord: f(x)et#6654.   
--> HackTheBox: Y3T #456566.  
--> Hackerone: @Y3T //No bounties yet  
+-> Discord: f(x)et#6654.     
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVChaves&hide_rank=true&show_icons=true&theme=tokyonight)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&theme=tokyonight&hide=html,css,javascript,shell&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVChaves&hide_rank=true&show_icons=true&theme=synthwave)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&theme=synthwave&hide=html,css,javascript,shell&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
