@@ -54,4 +54,4 @@ Wish to or currently learning:
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVChaves&hide_rank=true&show_icons=true&theme=synthwave)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&theme=synthwave&hide=html,css,javascript,shell&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&theme=synthwave&hide=html,css,javascript,shell&langs_count=6&exclude_repo=VanillaEvolved)](https://github.com/anuraghazra/github-readme-stats)
