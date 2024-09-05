@@ -5,7 +5,7 @@
 ## About me
 
 I'm a Software Engineering student based in Brazil.  
-Currently studying embedded development and reverse engineering.
+Currently studying embedded development and reverse engineering.  
 Oddly fond of assembly and C.
 Passionate about punk, metal, horror and learning.  
 For more info check my [personal page.](https://homepage-lucaschaves.vercel.app)
