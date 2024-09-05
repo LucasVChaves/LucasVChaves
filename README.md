@@ -5,7 +5,8 @@
 ## About me
 
 I'm a Software Engineering student based in Brazil.  
-Studying low-level coding and pen-testing.  
+Currently studying embedded development and reverse engineering.
+Oddly fond of assembly and C.
 Passionate about punk, metal, horror and learning.  
 For more info check my [personal page.](https://homepage-lucaschaves.vercel.app)
 
@@ -22,7 +23,7 @@ Coding:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="arduino" title="Arduino" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" title="Bash" height="40" style="vertical-align:top; margin:4px">
 <br/>  
-Pen-Testing:  
+Infosec:  
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2.wp.com%2Ftsholden.com%2Ffiles%2Fart%2Fnmap_android.png&f=1&nofb=1&ipt=4f54d1cf97e2e9f190009be0f69314bf8db7a5e136d22c4daeabfd50fe01b0ea&ipo=images" alt="nmap" title="Nmap" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.maltego.com/img/maltego-logo/Maltego-Logo-Compact-Greyblue.png" alt="maltego" title="Maltego" height="40" style="vertical-align:top; margin:4px">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpsychocod3r.files.wordpress.com%2F2021%2F04%2Fburpsuite-logo-1.png&f=1&nofb=1" alt="burp suite" title="Burp Suite" height="40" style="vertical-align:top; margin:4px">
@@ -30,6 +31,7 @@ Pen-Testing:
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.330657452.3245%2Fraf%2C750x1000%2C075%2Ct%2C101010%3A01c5ca27c6.u1.jpg&f=1&nofb=1" alt="metasploit" title="Metasploit Framework" height="40" style="vertical-align:top; margin:4px">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FRadare2%2FRadare2-Logo.wine.png&f=1&nofb=1" alt="radare2" title="Radare2" height="40" style="vertical-align:top; margin:4px">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fghidra-sre.org%2Fimages%2FGHIDRA_1.png&f=1&nofb=1" alt="ghidra" title="Ghidra" height="40" style="vertical-align:top; margin:4px">
+<img src="https://static-00.iconduck.com/assets.00/wireshark-alt-icon-2048x2048-4ex8a9zk.png" alt="wireshark" title="Wireshark" height="40" style="vertical-align:top; margin:4px">
 <br/>  
 Other:  
 <img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" alt="vscode" title="Visual Studio Code IDE" height="40" style="vertical-align:top; margin:4px"> 
@@ -48,10 +50,10 @@ Wish to or currently learning:
 
 ## Chat with me 🙃
 
--> Email: y3tsec@protonmail.com.  
--> Discord: f(x)et#6654.     
+-> Email: lucasvchaves@gmail.com  
+-> Discord: f(x)et#6654     
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVChaves&hide_rank=true&show_icons=true&theme=synthwave)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&theme=synthwave&hide=html,css,javascript,shell,cmake,makefile&langs_count=6&exclude_repo=VanillaEvolved)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVChaves&hide_rank=true&show_icons=true&theme=gruvbox)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&theme=gruvbox&hide=html,css,javascript,shell,cmake,makefile&langs_count=6&exclude_repo=VanillaEvolved)](https://github.com/anuraghazra/github-readme-stats)
