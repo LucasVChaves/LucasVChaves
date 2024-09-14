@@ -1,14 +1,14 @@
 # Hi, welcome to my profile! ❤️ 👋 
 
-<br/>
-
 ## About me
 
-I'm a Software Engineering student based in Brazil.  
-Currently studying embedded development and reverse engineering.  
-Oddly fond of assembly and C.  
-Passionate about punk, metal, horror and learning.  
-For more info check my [personal page.](https://homepage-lucaschaves.vercel.app)
+➯ I study Information Systems at the Federal University of Juiz de Fora, Brazil.  
+➯ Mainly interested in software development, robotics and embedded systems.  
+➯ Oddly fond of assembly and C, but also delving into Rust.  
+➯ Also interested in cybersecurity and reverse engineering.  
+➯ I'm a member of the UFJF Robotics Team [Rinobot](https://instagram.com/rinobotbrasil) where I manage the [SPL](https://spl.robocup.org) category.  
+➯ Passionate about punk, metal, horror and drums.  
+
 
 <br/>
 
