@@ -3,8 +3,7 @@
         <td style="width: 50%;">
             <img src="https://github.com/LucasVChaves/LucasVChaves/blob/main/Image.jpg"
                 alt="Blasphemous game screenshot"
-                style="width: 100%;"
-                border: no>
+                style="width: 200%; border: none;">
         </td>
         <td style="width: 50%; vertical-align: top;">
         <p style="font-family: monospace; font-size: 16px;">
