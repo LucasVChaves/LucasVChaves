@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td style="width: 50%;">
-            <img src="./image.png" alt="Blasphemous game screenshot" style="width: 200%; border: none;"/>
+            <img src="./image.jpg" alt="Blasphemous game screenshot" style="width: 200%; border: none;"/>
         </td>
         <td style="width: 50%; vertical-align: top;">
         <p style="font-family: monospace; font-size: 16px;">
