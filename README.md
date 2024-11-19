@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td style="width: 50%;">
-            <img src="./Image.jpg"
+            <img src="https://github.com/LucasVChaves/LucasVChaves/blob/main/Image.jpg"
                 alt="Blasphemous game screenshot"
                 style="width: 100%;"
                 border: no>
