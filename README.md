@@ -71,5 +71,5 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVChaves&hide_rank=true&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&theme=gruvbox&hide=html,css,javascript,shell,cmake,makefile&langs_count=6&exclude_repo=VanillaEvolved)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&theme=gruvbox&hide=html,css,javascript,shell,cmake,makefile,shaderlab&langs_count=6&exclude_repo=VanillaEvolved)
 </details>
