@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td style="width: 50%;">
-            <img src="./cyberpunk.gif" alt="Cyberpunk city pixel art" style="width: 200%; border: none;"/>
+            <img src="./cyberpunk.gif" style="width: 100%; border: none;"></img>
         </td>
         <td style="width: 50%; vertical-align: top;">
         <p style="font-family: monospace; font-size: 16px;">
@@ -71,6 +71,6 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVChaves&hide_rank=true&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVChaves&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&theme=gruvbox&hide=html,css,javascript,shell,cmake,makefile,shaderlab&langs_count=6&exclude_repo=VanillaEvolved)
 </details>
