@@ -70,6 +70,9 @@
 <summary>━━━━━━━━━━━━━━━━━━━━━━━│ 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂 │━━━━━━━━━━━━━━━━━━━━━━━━━━━</summary>  
 
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVChaves&theme=gruvbox&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVChaves&layout=compact&theme=gruvbox&hide=html,css,javascript,shell,cmake,makefile,shaderlab&langs_count=6&exclude_repo=VanillaEvolved/">
+<!-- Estatisticas Gerais do Perfil -->
+<img height="180em" src="profile-summary-cards-output/gruvbox/0-profile-details.svg" alt="GitHub Stats" />
+
+<!-- Top Linguagens -->
+<img height="180em" src="profile-summary-cards-output/gruvbox/2-most-commit-language.svg" alt="Top Languages" />
 </details>
